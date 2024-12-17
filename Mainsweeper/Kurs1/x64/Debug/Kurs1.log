@@ -1,0 +1,9 @@
+﻿  Main.c
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(76,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(153,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(148,1): warning C4716: fgeneration: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(100,1): warning C4716: cleaning: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(128,1): warning C4716: generation: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(109,1): warning C4716: bomb: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs9\Main.c(270,1): warning C4716: saper: должна возвращать значение
+  Kurs1.vcxproj -> C:\Users\Poluroslik M\source\repos\Kurs9\x64\Debug\Kurs1.exe
